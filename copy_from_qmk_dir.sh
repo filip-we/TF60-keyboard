@@ -5,5 +5,5 @@ cp ~/qmk_firmware/keyboards/wolf/ts60/rules.mk qmk_firmware/.
 cp ~/qmk_firmware/keyboards/wolf/ts60/ts60.c qmk_firmware/.
 cp ~/qmk_firmware/keyboards/wolf/ts60/ts60.h qmk_firmware/.
 
-cp ~/qmk_firmware/keyboards/wolf/ts60/keymaps/filip-we/keymap.c  qmk_firmware/keymaps/filip-we/keymap.c
+cp ~/qmk_firmware/keyboards/wolf/ts60/keymaps/filip-we/*  qmk_firmware/keymaps/filip-we/.
 
